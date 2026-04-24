@@ -23,17 +23,10 @@ A custom ServiceNow application designed to automate the lifecycle of security i
     * Real-time list monitoring for Critical incidents.
 
 ## 📸 Visuals
-### 📊 System Dashboard
-![Security Dashboard](image_338b65.png)
+
+### 📊 Management Command Center
+![Dashboard](Screenshot%202026-04-23%20185640.png)
 
 ### ⚙️ Automation Logic (Flow Designer)
-![Workflow Logic](Surekha_Security_Routing (1).png)
-<h3 align="center">Security Command Center</h3>
-<p align="center">
-  <img src="image_338b65.png" width="800" title="Management Dashboard">
-</p>
+![Flow Diagram](Surekha_Security_Routing%20\(1\).png)
 
-<h3 align="center">Flow Automation Logic</h3>
-<p align="center">
-  <img src="Surekha_Security_Routing (1).png" width="600" title="ServiceNow Flow Designer">
-</p>
